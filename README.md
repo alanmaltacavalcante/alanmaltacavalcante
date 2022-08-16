@@ -9,4 +9,4 @@ Trabalho com Suporte de TI e estou avançando para área de Desenvolvimento de S
 
 Atualmente estou participando do BootCamp Linux Experience 🐧 pela Dio.me;
 
-<a href="https://www.linkedin.com/in/alanmaltacavalcante/"><img src="https://img.shields.io/badge/LinkedIn-Alan%20Cavalcante-blue?style=social&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/alanmaltacavalcante/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Alan%20Cavalcante-blue?style=social&logo=linkedin" /></a>
